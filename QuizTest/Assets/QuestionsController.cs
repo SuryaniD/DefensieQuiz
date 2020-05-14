@@ -33,7 +33,7 @@ public class QuestionsController : MonoBehaviour
         addText(questionText_obj, "");
         questionText_obj.GetComponent<RectTransform>().anchoredPosition = new Vector2(0, 0);
         // Initialize Parser
-        if (!parser.begin(@"input"))
+        if (!parser.begin(SceneInfo.Instance.file))
         {
             Debug.Log("File does not exit");
         } else
