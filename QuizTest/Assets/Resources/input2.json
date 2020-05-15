@@ -1,0 +1,21 @@
+{
+    "questions":
+    [{
+        "text": "Questions in input2",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctanswer":"1"
+    }, {
+        "text": "Question 2",
+        "answers": [
+            "answer 1",
+            "answer 3",
+            "answer 4"
+        ],
+        "correctanswer":"answer 3"
+    }]
+}
