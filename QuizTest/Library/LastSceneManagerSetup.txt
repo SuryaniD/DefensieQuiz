@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FilePicker.unity
+- path: Assets/Scenes/MarkTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
