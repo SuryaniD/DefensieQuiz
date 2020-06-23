@@ -20,8 +20,13 @@ MonoBehaviour:
     height: 1117
   m_ShowMode: 4
   m_Title: 
+<<<<<<< HEAD
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 542}
+=======
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 875, y: 300}
+>>>>>>> Mark
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -70,8 +75,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1920
     height: 1117
+=======
+    width: 1536
+    height: 781
+>>>>>>> Mark
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &4
@@ -136,10 +146,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1920
     height: 1067
   m_MinSize: {x: 879, y: 492}
   m_MaxSize: {x: 16004, y: 14042}
+=======
+    width: 1536
+    height: 731
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+>>>>>>> Mark
   vertical: 0
   controlID: 16
 --- !u!114 &7
@@ -236,11 +253,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 319
     y: 0
+<<<<<<< HEAD
     width: 615
     height: 671
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
+=======
+    width: 1002
+    height: 460
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 12}
+>>>>>>> Mark
   m_Panes:
   - {fileID: 13}
   - {fileID: 16}
@@ -291,11 +316,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1571
     y: 0
+<<<<<<< HEAD
     width: 349
     height: 1067
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
+=======
+    width: 279
+    height: 731
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 19}
+>>>>>>> Mark
   m_Panes:
   - {fileID: 20}
   m_Selected: 0
@@ -420,7 +453,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 0ae4ffff2ae4ffff4ce4ffff70fbffff8a330000ac330000d8330000de330000
+=======
+      m_ExpandedIDs: 66fbffff
+>>>>>>> Mark
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -699,9 +736,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 58360000
     m_LastClickedID: 13912
     m_ExpandedIDs: 00000000363400003c3400005436000000ca9a3b
+=======
+    m_SelectedIDs: 46340000
+    m_LastClickedID: 13382
+    m_ExpandedIDs: 000000003e34000000ca9a3b
+>>>>>>> Mark
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -729,7 +772,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000036340000
+=======
+    m_ExpandedIDs: 000000003e340000
+>>>>>>> Mark
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -756,7 +803,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000036300000d22e0000f0870000502f0000302f0000fc360000382f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
